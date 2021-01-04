@@ -8,6 +8,7 @@ add func1
 @Service("activityServiceImpl")
 public class ActivityServiceImpl {
 	
+	//111
 	add func2
 	public List<String> plpList(){
 		List<String> list = new ArrayList<String>();
