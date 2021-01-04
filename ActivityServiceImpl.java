@@ -7,14 +7,13 @@ import org.springframework.stereotype.Service;
 add func1
 @Service("activityServiceImpl")
 public class ActivityServiceImpl {
-	
 	//111
 	add func2
 	public List<String> plpList(){
 		List<String> list = new ArrayList<String>();
 		return list;
 	}
-	
+	///222
 	add func3
 	public List<String> sadeList(){
 		List<String> list = new ArrayList<String>();
